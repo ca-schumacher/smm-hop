@@ -2,7 +2,9 @@
 Sensor-Motor Maps of a hopping model with sensor blending 
 
 **Details about the Model and Methods**
-Schumacher C and Seyfarth A (2017) Sensor-Motor Maps for Describing Linear Reflex Composition in Hopping. Front. Comput. Neurosci. 11:108. doi: 10.3389/fncom.2017.00108
+
+Schumacher C and Seyfarth A (2017) Sensor-Motor Maps for Describing Linear Reflex Composition in Hopping. Front. Comput. Neurosci. 11:108.
+
 https://www.frontiersin.org/articles/10.3389/fncom.2017.00108/full#B49
 
 ## HowTo - Start Simulation

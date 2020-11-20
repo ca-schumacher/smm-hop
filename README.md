@@ -9,8 +9,8 @@ https://www.frontiersin.org/articles/10.3389/fncom.2017.00108/full#B49
 
 ## HowTo - Start Simulation
 
-1. Run 'INIT_Hop.m' to initialize the model parameters and run the simulation model (MOD_Hop.slx)
-3. Uncomment the vizualization line (#72) and have fun playing with the parameters ;)
+1. Run 'INIT_Hop.m' to initialize the model parameters and run the simulation model (MOD_Hop.slx).
+2. Have fun playing with the parameters or comment out the vizualization script (in line #72).
 
 ## HowTo - Create Sensor-Motor Maps
 
